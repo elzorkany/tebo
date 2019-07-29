@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.wasalny",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "gateway",
+    "baseName": "wasalnygateway",
+    "packageName": "com.wasalny",
+    "packageFolder": "com/wasalny",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjNjYjliYjE2YjVkMDJmNzY2YTFkYTJmYjU0NjQ2ZTUwZDhmNDU4ZWI1NjRhZjMzZjA2NTIyOGU1ZGYwZTgyOWEwZDdmNGQzMDM1MTQ0MWYwMDM2NWQ2OTQ3Y2JhNGIzYTE2ZmIwYmMwYTg0ZTE0ZGZmN2IxNDk0YTNmZjNmODE=",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "ar-ly"]
+  }
+}
