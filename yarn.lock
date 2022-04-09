@@ -5549,11 +5549,6 @@ jest-leak-detector@^24.8.0:
   dependencies:
     pretty-format "^24.8.0"
 
-jest-leak-fixer@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/jest-leak-fixer/-/jest-leak-fixer-0.0.5.tgz#6870db1a89c0e501b48b7c88565092a3612f59d2"
-  integrity sha512-JFKRcsxCbyvQTWi972H/NiBt+iR5P98MuMYgq4kKzS4ZonvY4v1H+fYd1nHa7bwiz4i3qS8grVXNVV7F1iEswg==
-
 jest-matcher-utils@^24.8.0:
   version "24.8.0"
   resolved "https://registry.yarnpkg.com/jest-matcher-utils/-/jest-matcher-utils-24.8.0.tgz#2bce42204c9af12bde46f83dc839efe8be832495"
@@ -6789,10 +6784,10 @@ moment-locales-webpack-plugin@1.0.7:
   dependencies:
     lodash.difference "^4.5.0"
 
-moment@2.24.0, moment@^2.22.1:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@2.29.2, moment@^2.22.1:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
